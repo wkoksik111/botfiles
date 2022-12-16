@@ -1,0 +1,2 @@
+# botfiles
+do poradnika -_-
